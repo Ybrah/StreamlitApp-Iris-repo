@@ -1,4 +1,6 @@
-joblib==0.14.1
+pip install --upgrade pip
+numpy==1.21.6
+scikit-learn==0.24.2
+setuptools>=58.0
 streamlit==1.7.0
-scikit-learn==0.23.1
-pandas==1.0.5
+joblib==0.14.1

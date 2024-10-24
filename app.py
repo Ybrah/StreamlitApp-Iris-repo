@@ -6,7 +6,6 @@ from prediction import predict
 # Title and description
 st.title('Classifying Iris Flowers')
 st.markdown('A toy model to classify iris flowers into Setosa, Versicolor, or Virginica')
-
 # Section header
 st.header("Plant Features")
 

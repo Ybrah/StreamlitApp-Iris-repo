@@ -8,7 +8,6 @@ st.title('Classifying Iris Flowers')
 st.markdown('A toy model to classify iris flowers into Setosa, Versicolor, or Virginica')
 # Section header
 st.header("Plant Features")
-
 # Create two columns for the input sliders
 col1, col2 = st.columns(2)
 
